@@ -1,0 +1,20 @@
+<person>
+  <name>Z</name>
+  <age>18</age>
+  <location>Pittsburg</location>
+  <relation>sister</relation>
+</person>
+
+<person>
+  <name>A</name>
+  <age>50</age>
+  <location>PA</location>
+  <relation>mother</relation>
+</person>
+
+<person>
+  <name>B</name>
+  <age>55</age>
+  <location>PA</location>
+  <relation>father</relation>
+</person>
